@@ -7,7 +7,6 @@ Historial de las lecciones y ejercicios visto en el curso de cinta negra.
 [GitHUb CRUD Graphql](https://github.com/devfmx/cinta-negra-crud-graphql)
 
 ## Día uno
----
 
 **Express** [Documentación](https://expressjs.com/es/guide/routing.html)
 

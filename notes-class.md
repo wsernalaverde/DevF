@@ -41,3 +41,26 @@ Cliente para realizar peticiones a endpoints, HTTP and GraphQL
 **Ejercicio de la clase** [link GitHub](https://github.com/Masavi/cinta-negra-32-api)
 
 En este ejercicio vimos cómo crear una Rest Api utilizando Express, con dos endpoints para agregar y consultar usuarios desde una base de datos Mongo, utilizando mongoose para la conexión y validación de los datos.
+
+## Día dos
+
+**ESLint** [Página](https://eslint.org/) Sirve para poner un estandar en la forma que escribimos nuestro código (guías de estilo para nuestro código). 
+
+AIRBNB tiene una guía de estilosESLint airbnb https://github.com/airbnb/javascript 
+
+**MOngo** GeoJson Mongo (https://docs.mongodb.com/manual/reference/geojson/)
+
+geojson.io
+
+https://www.npmjs.com/package/bcrypt
+
+gensalt hashear una palabra
+
+
+trigger base de datos relacionales son disparadores
+
+mongo enum : es una lista de strings de los unico capaz de almacenar la bd, solo guarda lo que hay en la lista,
+
+https://github.com/prisma/graphql-yoga
+
+https://github.com/prisma/graphql-import archivos especiales .graph con esta los podemos importar sin ningun problema

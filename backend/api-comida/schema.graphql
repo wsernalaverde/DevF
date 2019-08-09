@@ -1,0 +1,21 @@
+type Quey{
+  getPersons:[Person]!
+  sayHello(name:String!):String!
+  singlePerson(position:Int!):Person
+}
+
+type Person{
+  name:String!
+  lats_name:String!
+  age:Int
+}
+
+type Mutations{
+  addPerson(data:createPerson):Person!
+}
+
+input createPerson{
+  name:String!
+  lats_name:String!
+  age:Int
+}
